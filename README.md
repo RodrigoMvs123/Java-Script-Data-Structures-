@@ -1,5 +1,7 @@
 # Java-Script-Data-Structures-
 
+https://raw.githubusercontent.com/RodrigoMvs123/Java-Script-Data-Structures-/main/README.md
+
 1 - class LinkedList { 
 2 - constructor ( ) { 
 3 - this.head = null; // First element of the list
