@@ -1,9 +1,11 @@
 # Java-Script-Data-Structures-
 
+https://www.youtube.com/watch?v=41GSinwoMYA&t=5013s
+
 https://raw.githubusercontent.com/RodrigoMvs123/Java-Script-Data-Structures-/main/README.md
 
-
 https://github.com/RodrigoMvs123/Java-Script-Data-Structures-/blame/main/README.md
+
 
 
 1 - class LinkedList { 
